@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-preview.png" alt="JiChangTuiJian 机场推荐" width="100%">
+
 # 🛫 JiChangTuiJian | 机场推荐
 
 ### 2026 最新好用的机场推荐与节点分享
@@ -260,6 +262,6 @@
 
 **⭐ 如果这个仓库对你有帮助，欢迎 Star 支持**
 
-**🔄 内容每日自动更新 | 最后更新: 2026-11-20 06:45:23 CST**
+**🔄 内容每日自动更新 | 最后更新时间见徽章**
 
 </div>
