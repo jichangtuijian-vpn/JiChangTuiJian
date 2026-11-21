@@ -16,6 +16,8 @@
 ---
 
 > ⚠️ **Disclaimer**: This repository is for educational and research purposes only and does not constitute any purchasing advice. Rankings are in no particular order. Star ratings are based on personal experience and are for reference only. Please comply with local laws and regulations. We recommend trying short-term plans first before committing to longer subscriptions. The best service is the one that suits your needs.
+>
+> 💰 **Affiliate Disclosure**: Some registration links in this repository are **affiliate/referral links** (containing tracking parameters), meaning the maintainer may earn a commission if you sign up or pay through them. This does not affect the price you pay, but please be aware of this relationship. Rankings are still based on objective experience and are not influenced by affiliate commissions.
 
 ---
 
@@ -259,6 +261,6 @@ This project is licensed under [CC BY-NC-SA 4.0](LICENSE).
 
 **⭐ If this repository helps you, please consider giving it a Star**
 
-**🔄 Content is Automatically updated: 2026-11-20 06:45:23 CST | See badge for last update**
+**🔄 Content is automatically updated daily | See badge for last update**
 
 </div>
