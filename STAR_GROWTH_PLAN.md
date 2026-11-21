@@ -19,26 +19,21 @@
 - [x] 精美的表格、徽章、折叠面板
 - [x] 完整的目录结构
 - [x] GitHub Actions 自动化更新
-- [ ] 上传项目 Logo / Banner 图片
-- [ ] 添加 Emoji 和视觉元素增强可读性
+- [x] 上传项目 Logo / Banner 图片（assets/social-preview.png）
+- [x] 添加 Emoji 和视觉元素增强可读性
 
 ### 1.2 SEO 优化
-- [ ] 设置仓库 Description（含核心关键词）
-- [ ] 添加 Topics 标签（最多 20 个）：
-  ```
-  proxy, vpn, clash, v2ray, trojan, ss, ssr, 
-  airport, recommendation, 2026, nodes, subscription,
-  iplc, iepl, emby, ai, residential, premium-line
-  ```
-- [ ] README 中使用高频搜索关键词
-- [ ] 确保仓库可被搜索引擎索引（不要设为 Private）
+- [x] 设置仓库 Description（含核心关键词）
+- [x] 添加 Topics 标签（17 个）
+- [x] README 中使用高频搜索关键词
+- [x] 确保仓库可被搜索引擎索引（Public）
 
 ### 1.3 仓库设置
-- [ ] 开启 Issues
-- [ ] 开启 Discussions（GitHub Discussions）
-- [ ] 设置 Repository topics
-- [ ] 添加 Social Preview 图片（Settings > Social preview）
-- [ ] 创建 Release v1.0.0
+- [x] 开启 Issues
+- [x] 开启 Discussions（GitHub Discussions）
+- [x] 设置 Repository topics
+- [x] 添加 Social Preview 图片（assets/social-preview.png，需在网页端 Settings 指定）
+- [x] 创建 Release v1.0.0
 
 ---
 
@@ -61,11 +56,36 @@
 - 定期更新客户端推荐（新版本发布时）
 - 跟踪行业动态，及时更新评测内容
 
-### 2.3 增加 Wiki
-- 创建 GitHub Wiki 页面
-- 详细的使用教程
-- 客户端配置指南
-- 常见问题解答
+### 2.3 增加 Wiki / 文档中心
+- [x] 创建文档中心（docs/ 目录，6 篇高质量中文文档）
+  - 文档首页 / 新手入门 / 客户端配置 / 常见问题 FAQ / 选购深度指南 / 术语表
+- [ ] 将 docs 内容同步到 GitHub Wiki（需在网页端初始化 Wiki 后操作）
+
+---
+
+## 📊 执行进度追踪（2026-11-21 更新）
+
+### ✅ 已完成（Phase 1 基建 + Phase 2 内容）
+| 项目 | 状态 |
+|------|------|
+| 四语言 README | ✅ |
+| 17 个 Topics 标签 | ✅ |
+| Repository Description 优化 | ✅ |
+| 开启 Discussions | ✅ |
+| 开启 Issues / Wiki | ✅ |
+| Release v1.0.0 | ✅ |
+| Social Preview 图片 | ✅ 已上传，待网页端指定 |
+| GitHub Actions 自动化 | ✅ |
+| 文档中心（6 篇） | ✅ |
+| 推广素材包 | ✅ 见 docs/06-推广素材包.md |
+
+### ⏳ 需你本人操作（无法代劳）
+| 项目 | 说明 |
+|------|------|
+| 指定 Social Preview | 仓库 Settings → Social preview → Upload image，选 assets/social-preview.png |
+| 外部平台发帖 | V2EX / Reddit / Twitter / Telegram / 知乎，文案已备好（docs/06） |
+| 完善 GitHub Profile | 主页 README 加"我的项目"板块 |
+| 回复 Issue / 讨论 | 有人互动时及时回复 |
 
 ---
 
